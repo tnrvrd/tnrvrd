@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on freelance projects.
-- 🌱 I’m currently learning SwiftUI
-- 👯 I’m looking to collaborate on SwiftUI libraries
-- 🤔 I’m looking for help with Combine
+- 🔭 currently working on freelance projects.
+- 🌱 currently learning SwiftUI
+- 👯 looking to collaborate on SwiftUI libraries
+- 🤔 looking for help with Combine
 - 💬 Ask me about iOS Development, Turkish Foods, Travelling
 - 📫 How to reach me: muhammedtanriverdi@gmail.com
 
