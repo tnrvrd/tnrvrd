@@ -12,5 +12,3 @@
 ⎶ [Questions and answers (Stackoverflow)](https://stackoverflow.com/users/2186887/muhammed-tanriverdi)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=muhammedtanriverdi&count_private=true&show_icons=true&theme=gotham)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedtanriverdi&show_icons=true&theme=gotham)
