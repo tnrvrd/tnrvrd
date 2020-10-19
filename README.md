@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about iOS Development, Turkish Foods, Travelling
 - 📫 How to reach me: muhammedtanriverdi@gmail.com
 
-!🐦 What do I think? (Twitter)(https://twitter.com/m_tanriverdii)
+(🐦 What do I think? Twitter)(https://twitter.com/m_tanriverdii)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=muhammedtanriverdi)
