@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 working at TomTom
+- 📍 working at TomTom
 - 📚 experienced in Maps and Navigation SDK solutions, especially iOS
 - 🌱 continuously learning 
 - 💬 Ask me about Maps & Navigation, iOS Development, indie app development
