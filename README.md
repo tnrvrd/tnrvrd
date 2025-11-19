@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 📍 working at TomTom
-- 📚 experienced in Maps and Navigation SDK solutions, especially iOS
+- 📚 iOS expertise, API, SDK
 - 🌱 continuously learning 
 - 💬 Ask me about Maps & Navigation, iOS development, indie apps
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tnrvrd/)
